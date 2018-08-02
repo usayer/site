@@ -1,0 +1,39 @@
+baseURL = "https://usayer.com/"
+languageCode = "en-us"
+title = "Uma Ayer"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Uma"
+    lastName = "Ayer"
+    address = "San Francisco, CA"
+    phone = "1-434-390-1732"
+    contactNote = "Data Scientist"
+    profileImage = "img/profile.jpg"
+    email = "uma.ayer@gmail.com"
+    description = "Data Scientist"
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showPublications = true
+    showExperience = true
+    showEducation = true
+    showProjects = false
+    showOpenSource = false
+    showQr = false
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/usayer/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/usayer/"
+
+[[params.handles]]
+    name = "Stack Overflow"
+    link = "https://stackoverflow.com/users/story/9179078"
+    icon = "stack-overflow"
+
+#[params.google.analytics]
+#    trackerID = "XX-123446-01"

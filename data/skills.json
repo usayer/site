@@ -1,0 +1,9 @@
+[
+  {
+      "grouping":"Technical",
+      "skills":[ "Python (proficient)","Git","SQL (learning)","Spark (learning)","SPSS (previous)","STATA (previous)","R (previous)"]
+  },{
+      "grouping":"Other",
+      "skills":[ "Content Writing","CRM","SEO","Medical Communications"]
+  }
+]

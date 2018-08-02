@@ -1,0 +1,20 @@
+[
+    {
+        "school":"Springboard",
+        "degree":"Data Science Career Track",
+        "major":"Data Science Accelerator",
+        "range":"2017 - Present"
+    },
+    {
+        "school":"Virginia Commonwealth University",
+        "degree":"Master of Science",
+        "major":"Drug Addiction Studies",
+        "range":"2013 - 2015"
+    },
+    {
+        "school":"University of Virginia",
+        "degree":"Bachelor of Arts",
+        "major":"Psychology",
+        "range":"2007 - 2011"
+    }
+]
