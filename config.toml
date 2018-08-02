@@ -1,4 +1,4 @@
-baseURL = "https://usayer.github.io/"
+baseURL = "https://usayer.com/"
 languageCode = "en-us"
 title = "Uma Ayer"
 theme = "hugo-resume"
